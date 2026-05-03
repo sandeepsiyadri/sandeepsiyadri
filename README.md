@@ -1,6 +1,6 @@
 # Sandeep Siyadri
 
-Senior DevOps Engineer | Cloud Engineer | Platform Engineering | Data Engineering
+#### Senior DevOps Engineer | Cloud Engineer | Platform Engineering | Data Engineering
 
 Experienced IT professional with 12+ years of experience in AWS, Azure, Kubernetes, CI/CD, Terraform, automation, reliability engineering, and modern data platforms.
 
